@@ -1,2 +1,2 @@
 # PemiluOnline
-Aplikasi pemilihan umum atau osis secara online
+Aplikasi pemilihan umum atau osis secara online. (Wahyu Budiman, Jambi)
